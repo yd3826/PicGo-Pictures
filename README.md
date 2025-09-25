@@ -1,4 +1,4 @@
-# Search-Engine-for-Remote-Homologous-Proteins
-the final assignment of bioinfo
+# PicGo图床
 
-this is a test!
+保存PicGo图片
+
